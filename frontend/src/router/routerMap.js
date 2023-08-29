@@ -36,7 +36,7 @@ const constantRouterMap = [
       name: "讯息",
       meta: {
         title: "chat",
-        icon: "message2",
+        icon: "message",
         keepAlive: true,
         requireAuth: true,
         TabbarShow: true,

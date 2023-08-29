@@ -3,22 +3,22 @@
     "config": {
       "env": "local",
       "name": "local2send",
-      "baseDir": "/Users/atlas/Music/local2send/electron",
-      "HOME": "/Users/atlas/Music/local2send",
-      "rundir": "/Users/atlas/Music/local2send/electron/run",
+      "baseDir": "/Users/atlas/local2send/electron",
+      "HOME": "/Users/atlas/local2send",
+      "rundir": "/Users/atlas/local2send/electron/run",
       "dump": {
         "ignore": {}
       },
-      "homeDir": "/Users/atlas/Music/local2send",
-      "root": "/Users/atlas/Music/local2send",
+      "homeDir": "/Users/atlas/local2send",
+      "root": "/Users/atlas/local2send",
       "appUserDataDir": "/Users/atlas/Library/Application Support/local2send",
       "userHome": "/Users/atlas",
       "appVersion": "3.6.0",
       "isPackaged": false,
-      "execDir": "/Users/atlas/Music/local2send",
+      "execDir": "/Users/atlas/local2send",
       "logger": {
         "type": "application",
-        "dir": "/Users/atlas/Music/local2send/logs",
+        "dir": "/Users/atlas/local2send/logs",
         "encoding": "utf8",
         "env": "local",
         "level": "INFO",
@@ -134,7 +134,7 @@
         "enable": false
       },
       "storage": {
-        "dir": "/Users/atlas/Music/local2send/data"
+        "dir": "/Users/atlas/local2send/data"
       },
       "loadingPage": false,
       "addons": {
@@ -192,7 +192,7 @@
         "frame": true,
         "show": false,
         "resizable": false,
-        "icon": "/Users/atlas/Music/local2send/public/images/logo-32.png"
+        "icon": "/Users/atlas/local2send/public/images/logo-32.png"
       },
       "remoteUrl": {
         "enable": false,

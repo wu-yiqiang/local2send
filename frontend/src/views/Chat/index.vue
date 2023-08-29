@@ -1,6 +1,6 @@
 <template>
   <section class="Chat">
-   <List />
+    <List />
    <window />
   </section>
 </template>
@@ -12,11 +12,14 @@ import Window from './window.vue';
 .Chat{
   color: aliceblue;
   display: flex;
+  height: 100%;
   .List {
     width: 25%;
+    height: 100%;
   }
   .Window {
     width: 75%;
+    height: 100%;
   }
 }
 </style>

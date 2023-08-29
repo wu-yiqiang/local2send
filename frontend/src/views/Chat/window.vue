@@ -9,7 +9,9 @@ import { reactive, watch, computed, ref } from 'vue'
 </script>
 <style lang="scss" scoped>
 .Window{
-  background-color: aqua;
+  background-color: $--tabBarColor;
+  border-left: 1px solid gray;
   border-radius: 0 $--boder-spacing-3 $--boder-spacing-3 0;
+  padding: $--pagePadding;
 }
 </style>
