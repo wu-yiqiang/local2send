@@ -1,0 +1,37 @@
+2023-08-25 21:04:51,812 ERROR 3723 [ee-core] Please check the http://localhost:8080 !
+2023-08-25 21:21:41,547 ERROR 4404 [ee-core] Please check the http://localhost:8080 !
+2023-08-25 21:23:12,673 ERROR 4466 [ee-core] Please check the http://localhost:8080 !
+2023-08-25 21:26:45,483 ERROR 4509 [ee-core] Please check the http://localhost:8080 !
+2023-08-25 21:28:04,330 ERROR 4551 [ee-core] Please check the http://localhost:8080 !
+2023-08-25 21:32:22,038 ERROR 4642 [ee-core] Please check the http://localhost:8080 !
+2023-08-25 21:37:33,627 ERROR 4809 [ee-core] Please check the http://localhost:8080 !
+2023-08-25 21:48:57,502 ERROR 5088 nodejs.TypeError: Cannot read properties of undefined (reading 'openDevTools')
+    at /Users/atlas/local2send/electron/config/config.local.js:12:22
+    at AppLoader.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/loader/ee_loader.js:259:13)
+    at AppLoader._loadConfig (/Users/atlas/local2send/node_modules/ee-core/core/lib/loader/mixin/config.js:80:25)
+    at AppLoader._preloadAppConfig (/Users/atlas/local2send/node_modules/ee-core/core/lib/loader/mixin/config.js:64:27)
+    at AppLoader.loadConfig (/Users/atlas/local2send/node_modules/ee-core/core/lib/loader/mixin/config.js:26:28)
+    at AppLoader.loadConfig (/Users/atlas/local2send/node_modules/ee-core/ee/appLoader.js:14:11)
+    at new BaseApp (/Users/atlas/local2send/node_modules/ee-core/ee/baseApp.js:17:17)
+    at new EeApp (/Users/atlas/local2send/node_modules/ee-core/ee/eeApp.js:20:5)
+    at new Appliaction (/Users/atlas/local2send/node_modules/ee-core/ee/application.js:78:5)
+    at new Index (/Users/atlas/local2send/electron/index.js:6:5)
+
+pid: 5088
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-25 21:49:15,447 ERROR 5105 nodejs.TypeError: config.openDevTools is not a function
+    at /Users/atlas/local2send/electron/config/config.local.js:12:10
+    at AppLoader.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/loader/ee_loader.js:259:13)
+    at AppLoader._loadConfig (/Users/atlas/local2send/node_modules/ee-core/core/lib/loader/mixin/config.js:80:25)
+    at AppLoader._preloadAppConfig (/Users/atlas/local2send/node_modules/ee-core/core/lib/loader/mixin/config.js:64:27)
+    at AppLoader.loadConfig (/Users/atlas/local2send/node_modules/ee-core/core/lib/loader/mixin/config.js:26:28)
+    at AppLoader.loadConfig (/Users/atlas/local2send/node_modules/ee-core/ee/appLoader.js:14:11)
+    at new BaseApp (/Users/atlas/local2send/node_modules/ee-core/ee/baseApp.js:17:17)
+    at new EeApp (/Users/atlas/local2send/node_modules/ee-core/ee/eeApp.js:20:5)
+    at new Appliaction (/Users/atlas/local2send/node_modules/ee-core/ee/application.js:78:5)
+    at new Index (/Users/atlas/local2send/electron/index.js:6:5)
+
+pid: 5105
+hostname: AtlasdeMacBook-Pro.local
+

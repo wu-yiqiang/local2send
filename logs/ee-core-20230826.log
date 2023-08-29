@@ -1,0 +1,548 @@
+2023-08-26 00:01:16,918 INFO 7361 [ee-core] Env: local, Type: spa
+2023-08-26 00:01:16,918 INFO 7361 [ee-core] App running at: http://localhost:8080
+2023-08-26 00:05:36,871 INFO 7425 [ee-core] Env: local, Type: spa
+2023-08-26 00:05:36,871 INFO 7425 [ee-core] App running at: http://localhost:8080
+2023-08-26 00:06:37,590 INFO 7453 [ee-core] Env: local, Type: spa
+2023-08-26 00:06:37,590 INFO 7453 [ee-core] App running at: http://localhost:8080
+2023-08-26 00:30:45,297 INFO 7851 [ee-core] Env: local, Type: spa
+2023-08-26 00:30:45,298 INFO 7851 [ee-core] App running at: http://localhost:8080
+2023-08-26 00:48:23,787 INFO 8099 [ee-core] Env: local, Type: spa
+2023-08-26 00:48:23,787 INFO 8099 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:05:07,498 INFO 8376 [ee-core] Env: local, Type: spa
+2023-08-26 01:05:07,498 INFO 8376 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:05:41,561 INFO 8397 [ee-core] Env: local, Type: spa
+2023-08-26 01:05:41,561 INFO 8397 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:06:01,953 INFO 8413 [ee-core] Env: local, Type: spa
+2023-08-26 01:06:01,953 INFO 8413 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:07:12,282 INFO 8471 [ee-core] Env: local, Type: spa
+2023-08-26 01:07:12,282 INFO 8471 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:08:03,288 INFO 8504 [ee-core] Env: local, Type: spa
+2023-08-26 01:08:03,288 INFO 8504 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:08:29,601 INFO 8523 [ee-core] Env: local, Type: spa
+2023-08-26 01:08:29,602 INFO 8523 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:10:38,379 INFO 8551 [ee-core] Env: local, Type: spa
+2023-08-26 01:10:38,379 INFO 8551 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:14:51,625 INFO 8611 [ee-core] Env: local, Type: spa
+2023-08-26 01:14:51,625 INFO 8611 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:15:47,776 INFO 8642 [ee-core] Env: local, Type: spa
+2023-08-26 01:15:47,776 INFO 8642 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:16:38,861 INFO 8683 [ee-core] Env: local, Type: spa
+2023-08-26 01:16:38,861 INFO 8683 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:18:00,040 INFO 8716 [ee-core] Env: local, Type: spa
+2023-08-26 01:18:00,040 INFO 8716 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:23:08,116 INFO 8787 [ee-core] Env: local, Type: spa
+2023-08-26 01:23:08,116 INFO 8787 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:30:58,339 INFO 8898 [ee-core] Env: local, Type: spa
+2023-08-26 01:30:58,339 INFO 8898 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:31:38,956 INFO 8924 [ee-core] Env: local, Type: spa
+2023-08-26 01:31:38,956 INFO 8924 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:32:02,055 INFO 8939 [ee-core] Env: local, Type: spa
+2023-08-26 01:32:02,055 INFO 8939 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:32:28,399 INFO 8952 [ee-core] Env: local, Type: spa
+2023-08-26 01:32:28,399 INFO 8952 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:37:48,686 INFO 9036 [ee-core] Env: local, Type: spa
+2023-08-26 01:37:48,686 INFO 9036 [ee-core] App running at: http://localhost:8080
+2023-08-26 01:39:01,763 INFO 9061 [ee-core] Env: local, Type: spa
+2023-08-26 01:39:01,763 INFO 9061 [ee-core] App running at: http://localhost:8080
+2023-08-26 09:34:53,946 INFO 9326 [ee-core] Env: local, Type: spa
+2023-08-26 09:34:53,946 INFO 9326 [ee-core] App running at: http://localhost:8080
+2023-08-26 09:34:54,020 ERROR 9326 [ee-core] Please check the http://localhost:8080 !
+2023-08-26 09:35:11,336 INFO 9357 [ee-core] Env: local, Type: spa
+2023-08-26 09:35:11,336 INFO 9357 [ee-core] App running at: http://localhost:8080
+2023-08-26 09:42:14,624 INFO 9519 [ee-core] Env: local, Type: spa
+2023-08-26 09:42:14,624 INFO 9519 [ee-core] App running at: http://localhost:8080
+2023-08-26 09:42:41,067 INFO 9535 [ee-core] Env: local, Type: spa
+2023-08-26 09:42:41,067 INFO 9535 [ee-core] App running at: http://localhost:8080
+2023-08-26 09:44:00,024 INFO 9557 [ee-core] Env: local, Type: spa
+2023-08-26 09:44:00,025 INFO 9557 [ee-core] App running at: http://localhost:8080
+2023-08-26 09:47:29,258 INFO 9617 [ee-core] Env: local, Type: spa
+2023-08-26 09:47:29,258 INFO 9617 [ee-core] App running at: http://localhost:8080
+2023-08-26 09:48:26,116 INFO 9639 [ee-core] Env: local, Type: spa
+2023-08-26 09:48:26,116 INFO 9639 [ee-core] App running at: http://localhost:8080
+2023-08-26 09:53:22,026 INFO 9712 [ee-core] Env: local, Type: spa
+2023-08-26 09:53:22,026 INFO 9712 [ee-core] App running at: http://localhost:8080
+2023-08-26 10:01:55,146 INFO 9929 [ee-core] Env: local, Type: spa
+2023-08-26 10:01:55,146 INFO 9929 [ee-core] App running at: http://localhost:8080
+2023-08-26 10:05:03,353 INFO 9994 [ee-core] Env: local, Type: spa
+2023-08-26 10:05:03,353 INFO 9994 [ee-core] App running at: http://localhost:8080
+2023-08-26 10:07:13,117 INFO 10072 [ee-core] Env: local, Type: spa
+2023-08-26 10:07:13,118 INFO 10072 [ee-core] App running at: http://localhost:8080
+2023-08-26 10:12:38,320 INFO 10170 [ee-core] Env: local, Type: spa
+2023-08-26 10:12:38,320 INFO 10170 [ee-core] App running at: http://localhost:8080
+2023-08-26 10:16:47,002 INFO 10268 [ee-core] Env: local, Type: spa
+2023-08-26 10:16:47,002 INFO 10268 [ee-core] App running at: http://localhost:8080
+2023-08-26 10:25:08,125 INFO 10405 [ee-core] Env: local, Type: spa
+2023-08-26 10:25:08,125 INFO 10405 [ee-core] App running at: http://localhost:8080
+2023-08-26 10:34:41,448 INFO 10679 [ee-core] Env: local, Type: spa
+2023-08-26 10:34:41,448 INFO 10679 [ee-core] App running at: http://localhost:8080
+2023-08-26 10:35:35,211 INFO 10725 [ee-core] Env: local, Type: spa
+2023-08-26 10:35:35,211 INFO 10725 [ee-core] App running at: http://localhost:8080
+2023-08-26 10:48:44,956 INFO 10897 [ee-core] Env: local, Type: spa
+2023-08-26 10:48:44,956 INFO 10897 [ee-core] App running at: http://localhost:8080
+2023-08-26 10:56:37,420 INFO 11012 [ee-core] Env: local, Type: spa
+2023-08-26 10:56:37,420 INFO 11012 [ee-core] App running at: http://localhost:8080
+2023-08-26 10:58:46,930 INFO 11055 [ee-core] Env: local, Type: spa
+2023-08-26 10:58:46,930 INFO 11055 [ee-core] App running at: http://localhost:8080
+2023-08-26 11:07:43,991 INFO 11196 [ee-core] Env: local, Type: spa
+2023-08-26 11:07:43,991 INFO 11196 [ee-core] App running at: http://localhost:8080
+2023-08-26 11:11:25,352 INFO 11253 [ee-core] Env: local, Type: spa
+2023-08-26 11:11:25,352 INFO 11253 [ee-core] App running at: http://localhost:8080
+2023-08-26 11:39:38,979 INFO 11787 [ee-core] Env: local, Type: spa
+2023-08-26 11:39:38,979 INFO 11787 [ee-core] App running at: http://localhost:8080
+2023-08-26 11:39:39,069 ERROR 11787 [ee-core] Please check the http://localhost:8080 !
+2023-08-26 11:39:58,362 INFO 11805 [ee-core] Env: local, Type: spa
+2023-08-26 11:39:58,362 INFO 11805 [ee-core] App running at: http://localhost:8080
+2023-08-26 11:41:21,088 INFO 11835 [ee-core] Env: local, Type: spa
+2023-08-26 11:41:21,088 INFO 11835 [ee-core] App running at: http://localhost:8080
+2023-08-26 11:42:04,753 INFO 11853 [ee-core] Env: local, Type: spa
+2023-08-26 11:42:04,753 INFO 11853 [ee-core] App running at: http://localhost:8080
+2023-08-26 11:46:22,173 INFO 11928 [ee-core] Env: local, Type: spa
+2023-08-26 11:46:22,173 INFO 11928 [ee-core] App running at: http://localhost:8080
+2023-08-26 11:49:58,947 INFO 11991 [ee-core] Env: local, Type: spa
+2023-08-26 11:49:58,947 INFO 11991 [ee-core] App running at: http://localhost:8080
+2023-08-26 11:50:32,166 INFO 12007 [ee-core] Env: local, Type: spa
+2023-08-26 11:50:32,166 INFO 12007 [ee-core] App running at: http://localhost:8080
+2023-08-26 11:50:57,143 INFO 12020 [ee-core] Env: local, Type: spa
+2023-08-26 11:50:57,144 INFO 12020 [ee-core] App running at: http://localhost:8080
+2023-08-26 11:51:11,440 INFO 12032 [ee-core] Env: local, Type: spa
+2023-08-26 11:51:11,440 INFO 12032 [ee-core] App running at: http://localhost:8080
+2023-08-26 11:57:25,360 INFO 12107 [ee-core] Env: local, Type: spa
+2023-08-26 11:57:25,360 INFO 12107 [ee-core] App running at: http://localhost:8080
+2023-08-26 11:58:07,241 INFO 12121 [ee-core] Env: local, Type: spa
+2023-08-26 11:58:07,241 INFO 12121 [ee-core] App running at: http://localhost:8080
+2023-08-26 12:15:07,937 ERROR 12452 nodejs.TypeError: Cannot read properties of undefined (reading 'openDevTools')
+    at Index.windowReady (/Users/atlas/local2send/electron/index.js:30:24)
+    at Index.createWindow (/Users/atlas/local2send/node_modules/ee-core/ee/eeApp.js:81:16)
+    at /Users/atlas/local2send/node_modules/ee-core/electron/app/index.js:30:15
+
+pid: 12452
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 12:16:46,185 INFO 12483 [ee-core] Env: local, Type: spa
+2023-08-26 12:16:46,185 INFO 12483 [ee-core] App running at: http://localhost:8080
+2023-08-26 12:19:47,425 INFO 12532 [ee-core] Env: local, Type: spa
+2023-08-26 12:19:47,425 INFO 12532 [ee-core] App running at: http://localhost:8080
+2023-08-26 12:21:50,283 INFO 12576 [ee-core] Env: local, Type: spa
+2023-08-26 12:21:50,283 INFO 12576 [ee-core] App running at: http://localhost:8080
+2023-08-26 12:22:59,958 INFO 12603 [ee-core] Env: local, Type: spa
+2023-08-26 12:22:59,958 INFO 12603 [ee-core] App running at: http://localhost:8080
+2023-08-26 12:23:22,878 INFO 12623 [ee-core] Env: local, Type: spa
+2023-08-26 12:23:22,879 INFO 12623 [ee-core] App running at: http://localhost:8080
+2023-08-26 12:27:35,974 INFO 12817 [ee-core] Env: local, Type: spa
+2023-08-26 12:27:35,974 INFO 12817 [ee-core] App running at: http://localhost:8080
+2023-08-26 12:30:46,485 INFO 12852 [ee-core] Env: local, Type: spa
+2023-08-26 12:30:46,485 INFO 12852 [ee-core] App running at: http://localhost:8080
+2023-08-26 13:00:43,112 INFO 13183 [ee-core] Env: local, Type: spa
+2023-08-26 13:00:43,112 INFO 13183 [ee-core] App running at: http://localhost:8080
+2023-08-26 13:01:19,883 INFO 13204 [ee-core] Env: local, Type: spa
+2023-08-26 13:01:19,884 INFO 13204 [ee-core] App running at: http://localhost:8080
+2023-08-26 13:02:28,376 INFO 13224 [ee-core] Env: local, Type: spa
+2023-08-26 13:02:28,376 INFO 13224 [ee-core] App running at: http://localhost:8080
+2023-08-26 13:03:47,587 INFO 13260 [ee-core] Env: local, Type: spa
+2023-08-26 13:03:47,587 INFO 13260 [ee-core] App running at: http://localhost:8080
+2023-08-26 13:04:40,257 INFO 13279 [ee-core] Env: local, Type: spa
+2023-08-26 13:04:40,258 INFO 13279 [ee-core] App running at: http://localhost:8080
+2023-08-26 13:05:11,045 INFO 13301 [ee-core] Env: local, Type: spa
+2023-08-26 13:05:11,045 INFO 13301 [ee-core] App running at: http://localhost:8080
+2023-08-26 13:06:09,891 INFO 13326 [ee-core] Env: local, Type: spa
+2023-08-26 13:06:09,891 INFO 13326 [ee-core] App running at: http://localhost:8080
+2023-08-26 14:33:20,468 INFO 13781 [ee-core] Env: local, Type: spa
+2023-08-26 14:33:20,469 INFO 13781 [ee-core] App running at: http://localhost:8080
+2023-08-26 14:33:59,854 INFO 13803 [ee-core] Env: local, Type: spa
+2023-08-26 14:33:59,854 INFO 13803 [ee-core] App running at: http://localhost:8080
+2023-08-26 14:39:08,341 INFO 13876 [ee-core] Env: local, Type: spa
+2023-08-26 14:39:08,341 INFO 13876 [ee-core] App running at: http://localhost:8080
+2023-08-26 14:39:25,137 INFO 13891 [ee-core] Env: local, Type: spa
+2023-08-26 14:39:25,137 INFO 13891 [ee-core] App running at: http://localhost:8080
+2023-08-26 14:47:26,870 INFO 14004 [ee-core] Env: local, Type: spa
+2023-08-26 14:47:26,870 INFO 14004 [ee-core] App running at: http://localhost:8080
+2023-08-26 14:48:28,311 INFO 14033 [ee-core] Env: local, Type: spa
+2023-08-26 14:48:28,311 INFO 14033 [ee-core] App running at: http://localhost:8080
+2023-08-26 14:52:56,340 INFO 14100 [ee-core] Env: local, Type: spa
+2023-08-26 14:52:56,341 INFO 14100 [ee-core] App running at: http://localhost:8080
+2023-08-26 14:57:07,381 INFO 14168 [ee-core] Env: local, Type: spa
+2023-08-26 14:57:07,381 INFO 14168 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:14:29,930 INFO 15320 [ee-core] Env: local, Type: spa
+2023-08-26 17:14:29,930 INFO 15320 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:15:40,890 INFO 15343 [ee-core] Env: local, Type: spa
+2023-08-26 17:15:40,890 INFO 15343 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:16:09,200 INFO 15365 [ee-core] Env: local, Type: spa
+2023-08-26 17:16:09,200 INFO 15365 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:17:43,500 INFO 15402 [ee-core] Env: local, Type: spa
+2023-08-26 17:17:43,500 INFO 15402 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:18:23,569 INFO 15417 [ee-core] Env: local, Type: spa
+2023-08-26 17:18:23,569 INFO 15417 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:22:01,123 INFO 15499 [ee-core] Env: local, Type: spa
+2023-08-26 17:22:01,124 INFO 15499 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:22:22,396 INFO 15512 [ee-core] Env: local, Type: spa
+2023-08-26 17:22:22,396 INFO 15512 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:23:09,566 INFO 15527 [ee-core] Env: local, Type: spa
+2023-08-26 17:23:09,566 INFO 15527 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:26:30,523 INFO 15576 [ee-core] Env: local, Type: spa
+2023-08-26 17:26:30,523 INFO 15576 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:27:34,741 INFO 15596 [ee-core] Env: local, Type: spa
+2023-08-26 17:27:34,742 INFO 15596 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:28:43,315 INFO 15623 [ee-core] Env: local, Type: spa
+2023-08-26 17:28:43,315 INFO 15623 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:29:17,535 INFO 15641 [ee-core] Env: local, Type: spa
+2023-08-26 17:29:17,535 INFO 15641 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:29:52,065 INFO 15655 [ee-core] Env: local, Type: spa
+2023-08-26 17:29:52,065 INFO 15655 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:30:46,053 INFO 15677 [ee-core] Env: local, Type: spa
+2023-08-26 17:30:46,053 INFO 15677 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:31:00,335 INFO 15689 [ee-core] Env: local, Type: spa
+2023-08-26 17:31:00,335 INFO 15689 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:31:12,669 INFO 15698 [ee-core] Env: local, Type: spa
+2023-08-26 17:31:12,669 INFO 15698 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:48:47,369 INFO 15868 [ee-core] Env: local, Type: spa
+2023-08-26 17:48:47,369 INFO 15868 [ee-core] App running at: http://localhost:8080
+2023-08-26 17:49:10,781 INFO 15882 [ee-core] Env: local, Type: spa
+2023-08-26 17:49:10,781 INFO 15882 [ee-core] App running at: http://localhost:8080
+2023-08-26 18:23:37,731 INFO 16167 [ee-core] Env: local, Type: spa
+2023-08-26 18:23:37,732 INFO 16167 [ee-core] App running at: http://localhost:8080
+2023-08-26 18:23:50,492 INFO 16178 [ee-core] Env: local, Type: spa
+2023-08-26 18:23:50,492 INFO 16178 [ee-core] App running at: http://localhost:8080
+2023-08-26 18:24:13,854 INFO 16192 [ee-core] Env: local, Type: spa
+2023-08-26 18:24:13,854 INFO 16192 [ee-core] App running at: http://localhost:8080
+2023-08-26 18:24:44,928 INFO 16207 [ee-core] Env: local, Type: spa
+2023-08-26 18:24:44,928 INFO 16207 [ee-core] App running at: http://localhost:8080
+2023-08-26 18:34:14,009 INFO 16347 [ee-core] Env: local, Type: spa
+2023-08-26 18:34:14,009 INFO 16347 [ee-core] App running at: http://localhost:8080
+2023-08-26 18:43:49,626 INFO 16453 [ee-core] Env: local, Type: spa
+2023-08-26 18:43:49,626 INFO 16453 [ee-core] App running at: http://localhost:8080
+2023-08-26 18:47:40,344 INFO 16531 [ee-core] Env: local, Type: spa
+2023-08-26 18:47:40,344 INFO 16531 [ee-core] App running at: http://localhost:8080
+2023-08-26 18:48:08,025 INFO 16549 [ee-core] Env: local, Type: spa
+2023-08-26 18:48:08,025 INFO 16549 [ee-core] App running at: http://localhost:8080
+2023-08-26 18:52:15,827 INFO 16611 [ee-core] Env: local, Type: spa
+2023-08-26 18:52:15,827 INFO 16611 [ee-core] App running at: http://localhost:8080
+2023-08-26 23:06:54,721 INFO 20099 [ee-core] Env: local, Type: spa
+2023-08-26 23:06:54,721 INFO 20099 [ee-core] App running at: http://localhost:8080
+2023-08-26 23:33:38,375 ERROR 20446 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/db.js, error: Cannot use import statement outside a module
+import fs from 'fs'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js:35:19)
+
+pid: 20446
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:33:58,255 ERROR 20465 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/db.js, error: Cannot use import statement outside a module
+import fs from 'fs'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js:35:19)
+
+pid: 20465
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:36:32,959 ERROR 20514 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/db.js, error: Cannot use import statement outside a module
+import fs from 'fs'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js:35:19)
+
+pid: 20514
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:37:34,550 ERROR 20535 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/db.js, error: Cannot use import statement outside a module
+import { genId } from './helper'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js:35:19)
+
+pid: 20535
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:44:08,148 ERROR 20613 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/db.js, error: Unexpected token 'export'
+export default class DB {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js:35:19)
+
+pid: 20613
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:44:31,432 ERROR 20621 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/db.js, error: Unexpected token 'export'
+export class DB {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js:35:19)
+
+pid: 20621
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:45:56,890 ERROR 20654 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/db.js, error: Unexpected token 'export'
+export const tryUsePort = async (_port) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/db.js:9:19)
+
+pid: 20654
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:47:28,077 ERROR 20674 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/db.js, error: Unexpected token 'export'
+export { tryUsePort, genId }
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/db.js:9:19)
+
+pid: 20674
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:48:02,483 ERROR 20684 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: Unexpected token 'export'
+export default startServer
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js:35:19)
+
+pid: 20684
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:49:10,514 ERROR 20703 nodejs.unhandledExceptionError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: Cannot find module '@koa/cors'
+Require stack:
+- /Users/atlas/local2send/electron/service/network/index.js
+- /Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js
+- /Users/atlas/local2send/node_modules/ee-core/main/index.js
+- /Users/atlas/local2send/node_modules/ee-core/index.js
+- /Users/atlas/local2send/main.js
+- /Users/atlas/local2send/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js
+- 
+Require stack:
+- /Users/atlas/local2send/electron/service/network/index.js
+- /Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js
+- /Users/atlas/local2send/node_modules/ee-core/main/index.js
+- /Users/atlas/local2send/node_modules/ee-core/index.js
+- /Users/atlas/local2send/main.js
+- /Users/atlas/local2send/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js
+- 
+    at Module._resolveFilename (node:internal/modules/cjs/loader:940:15)
+    at n._resolveFilename (node:electron/js2c/browser_init:249:1105)
+    at Module._load (node:internal/modules/cjs/loader:785:27)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/index.js:5:14)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+code: "MODULE_NOT_FOUND"
+requireStack: ["/Users/atlas/local2send/electron/service/network/index.js","/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js","/Users/atlas/local2send/node_modules/ee-core/main/index.js","/Users/atlas/local2send/node_modules/ee-core/index.js","/Users/atlas/local2send/main.js","/Users/atlas/local2send/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js",null]
+name: "unhandledExceptionError"
+pid: 20703
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:51:54,552 ERROR 20767 nodejs.unhandledExceptionError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: Cannot find module '@koa/router'
+Require stack:
+- /Users/atlas/local2send/electron/service/network/index.js
+- /Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js
+- /Users/atlas/local2send/node_modules/ee-core/main/index.js
+- /Users/atlas/local2send/node_modules/ee-core/index.js
+- /Users/atlas/local2send/main.js
+- /Users/atlas/local2send/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js
+- 
+Require stack:
+- /Users/atlas/local2send/electron/service/network/index.js
+- /Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js
+- /Users/atlas/local2send/node_modules/ee-core/main/index.js
+- /Users/atlas/local2send/node_modules/ee-core/index.js
+- /Users/atlas/local2send/main.js
+- /Users/atlas/local2send/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js
+- 
+    at Module._resolveFilename (node:internal/modules/cjs/loader:940:15)
+    at n._resolveFilename (node:electron/js2c/browser_init:249:1105)
+    at Module._load (node:internal/modules/cjs/loader:785:27)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/index.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+code: "MODULE_NOT_FOUND"
+requireStack: ["/Users/atlas/local2send/electron/service/network/index.js","/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js","/Users/atlas/local2send/node_modules/ee-core/main/index.js","/Users/atlas/local2send/node_modules/ee-core/index.js","/Users/atlas/local2send/main.js","/Users/atlas/local2send/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js",null]
+name: "unhandledExceptionError"
+pid: 20767
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:54:44,114 ERROR 20805 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: Unexpected token 'export'
+export const uploadFilePublic = function (ctx, files) {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/index.js:8:46)
+
+pid: 20805
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:55:47,589 ERROR 20824 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: Unexpected token 'export'
+export const addTxt = (ctx, txt) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/index.js:8:46)
+
+pid: 20824
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:56:25,418 ERROR 20851 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: Unexpected token 'export'
+export const getTxt = (ctx) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/index.js:8:46)
+
+pid: 20851
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:56:44,211 ERROR 20859 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: Unexpected token 'export'
+export const getTxt = (ctx) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/index.js:8:46)
+
+pid: 20859
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:57:26,134 ERROR 20872 nodejs.ReferenceError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: electron is not defined
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/service.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/index.js:8:46)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+
+pid: 20872
+hostname: AtlasdeMacBook-Pro.local
+

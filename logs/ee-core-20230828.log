@@ -1,0 +1,4 @@
+2023-08-28 18:28:47,767 INFO 22430 [ee-core] Env: local, Type: spa
+2023-08-28 18:28:47,768 INFO 22430 [ee-core] App running at: http://localhost:8080
+2023-08-28 18:28:54,562 INFO 22444 [ee-core] Env: local, Type: spa
+2023-08-28 18:28:54,562 INFO 22444 [ee-core] App running at: http://localhost:8080

@@ -1,0 +1,100 @@
+2023-08-27 00:04:14,879 ERROR 20931 nodejs.ReferenceError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: electron is not defined
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/service.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/index.js:8:46)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+
+pid: 20931
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-27 00:06:12,630 ERROR 20962 nodejs.unhandledExceptionError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: Cannot find module 'stream-wormhole'
+Require stack:
+- /Users/atlas/local2send/electron/service/network/service.js
+- /Users/atlas/local2send/electron/service/network/index.js
+- /Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js
+- /Users/atlas/local2send/node_modules/ee-core/main/index.js
+- /Users/atlas/local2send/node_modules/ee-core/index.js
+- /Users/atlas/local2send/main.js
+- /Users/atlas/local2send/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js
+- 
+Require stack:
+- /Users/atlas/local2send/electron/service/network/service.js
+- /Users/atlas/local2send/electron/service/network/index.js
+- /Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js
+- /Users/atlas/local2send/node_modules/ee-core/main/index.js
+- /Users/atlas/local2send/node_modules/ee-core/index.js
+- /Users/atlas/local2send/main.js
+- /Users/atlas/local2send/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js
+- 
+    at Module._resolveFilename (node:internal/modules/cjs/loader:940:15)
+    at n._resolveFilename (node:electron/js2c/browser_init:249:1105)
+    at Module._load (node:internal/modules/cjs/loader:785:27)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/service.js:4:24)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+code: "MODULE_NOT_FOUND"
+requireStack: ["/Users/atlas/local2send/electron/service/network/service.js","/Users/atlas/local2send/electron/service/network/index.js","/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js","/Users/atlas/local2send/node_modules/ee-core/main/index.js","/Users/atlas/local2send/node_modules/ee-core/index.js","/Users/atlas/local2send/main.js","/Users/atlas/local2send/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js",null]
+name: "unhandledExceptionError"
+pid: 20962
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-27 00:09:22,430 ERROR 20996 nodejs.ReferenceError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: DB is not defined
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/index.js:11:12)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js:35:19)
+    at getExports (/Users/atlas/local2send/node_modules/ee-core/core/lib/loader/file_loader.js:265:23)
+
+pid: 20996
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-27 00:14:53,816 ERROR 21116 nodejs.TypeError: tryUsePort is not a function
+    at Index.electronAppReady (/Users/atlas/local2send/electron/index.js:24:18)
+    at Index.createElectronApp (/Users/atlas/local2send/node_modules/ee-core/ee/eeApp.js:70:16)
+    at Index.initialize (/Users/atlas/local2send/node_modules/ee-core/ee/application.js:94:16)
+
+pid: 21116
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-27 00:17:49,618 ERROR 21173 nodejs.ReferenceError: port is not defined
+    at Index.electronAppReady (/Users/atlas/local2send/electron/index.js:25:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Index.createElectronApp (/Users/atlas/local2send/node_modules/ee-core/ee/eeApp.js:70:5)
+    at async Index.initialize (/Users/atlas/local2send/node_modules/ee-core/ee/application.js:94:5)
+
+pid: 21173
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-27 00:18:32,509 ERROR 21195 nodejs.TypeError: startServer is not a function
+    at Index.electronAppReady (/Users/atlas/local2send/electron/index.js:26:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Index.createElectronApp (/Users/atlas/local2send/node_modules/ee-core/ee/eeApp.js:70:5)
+    at async Index.initialize (/Users/atlas/local2send/node_modules/ee-core/ee/application.js:94:5)
+
+pid: 21195
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-27 00:32:54,955 ERROR 21324 nodejs.TypeError: startServer is not a function
+    at Index.electronAppReady (/Users/atlas/local2send/electron/index.js:26:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Index.createElectronApp (/Users/atlas/local2send/node_modules/ee-core/ee/eeApp.js:70:5)
+    at async Index.initialize (/Users/atlas/local2send/node_modules/ee-core/ee/application.js:94:5)
+
+pid: 21324
+hostname: AtlasdeMacBook-Pro.local
+

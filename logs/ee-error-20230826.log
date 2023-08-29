@@ -1,0 +1,338 @@
+2023-08-26 09:34:54,020 ERROR 9326 [ee-core] Please check the http://localhost:8080 !
+2023-08-26 11:39:39,068 ERROR 11787 [ee-core] Please check the http://localhost:8080 !
+2023-08-26 12:15:07,937 ERROR 12452 nodejs.TypeError: Cannot read properties of undefined (reading 'openDevTools')
+    at Index.windowReady (/Users/atlas/local2send/electron/index.js:30:24)
+    at Index.createWindow (/Users/atlas/local2send/node_modules/ee-core/ee/eeApp.js:81:16)
+    at /Users/atlas/local2send/node_modules/ee-core/electron/app/index.js:30:15
+
+pid: 12452
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:33:38,375 ERROR 20446 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/db.js, error: Cannot use import statement outside a module
+import fs from 'fs'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js:35:19)
+
+pid: 20446
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:33:58,254 ERROR 20465 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/db.js, error: Cannot use import statement outside a module
+import fs from 'fs'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js:35:19)
+
+pid: 20465
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:36:32,959 ERROR 20514 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/db.js, error: Cannot use import statement outside a module
+import fs from 'fs'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js:35:19)
+
+pid: 20514
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:37:34,550 ERROR 20535 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/db.js, error: Cannot use import statement outside a module
+import { genId } from './helper'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js:35:19)
+
+pid: 20535
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:44:08,148 ERROR 20613 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/db.js, error: Unexpected token 'export'
+export default class DB {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js:35:19)
+
+pid: 20613
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:44:31,431 ERROR 20621 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/db.js, error: Unexpected token 'export'
+export class DB {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js:35:19)
+
+pid: 20621
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:45:56,890 ERROR 20654 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/db.js, error: Unexpected token 'export'
+export const tryUsePort = async (_port) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/db.js:9:19)
+
+pid: 20654
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:47:28,076 ERROR 20674 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/db.js, error: Unexpected token 'export'
+export { tryUsePort, genId }
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/db.js:9:19)
+
+pid: 20674
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:48:02,483 ERROR 20684 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: Unexpected token 'export'
+export default startServer
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.loadFile (/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js:35:19)
+
+pid: 20684
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:49:10,514 ERROR 20703 nodejs.unhandledExceptionError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: Cannot find module '@koa/cors'
+Require stack:
+- /Users/atlas/local2send/electron/service/network/index.js
+- /Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js
+- /Users/atlas/local2send/node_modules/ee-core/main/index.js
+- /Users/atlas/local2send/node_modules/ee-core/index.js
+- /Users/atlas/local2send/main.js
+- /Users/atlas/local2send/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js
+- 
+Require stack:
+- /Users/atlas/local2send/electron/service/network/index.js
+- /Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js
+- /Users/atlas/local2send/node_modules/ee-core/main/index.js
+- /Users/atlas/local2send/node_modules/ee-core/index.js
+- /Users/atlas/local2send/main.js
+- /Users/atlas/local2send/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js
+- 
+    at Module._resolveFilename (node:internal/modules/cjs/loader:940:15)
+    at n._resolveFilename (node:electron/js2c/browser_init:249:1105)
+    at Module._load (node:internal/modules/cjs/loader:785:27)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/index.js:5:14)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+code: "MODULE_NOT_FOUND"
+requireStack: ["/Users/atlas/local2send/electron/service/network/index.js","/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js","/Users/atlas/local2send/node_modules/ee-core/main/index.js","/Users/atlas/local2send/node_modules/ee-core/index.js","/Users/atlas/local2send/main.js","/Users/atlas/local2send/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js",null]
+name: "unhandledExceptionError"
+pid: 20703
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:51:54,552 ERROR 20767 nodejs.unhandledExceptionError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: Cannot find module '@koa/router'
+Require stack:
+- /Users/atlas/local2send/electron/service/network/index.js
+- /Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js
+- /Users/atlas/local2send/node_modules/ee-core/main/index.js
+- /Users/atlas/local2send/node_modules/ee-core/index.js
+- /Users/atlas/local2send/main.js
+- /Users/atlas/local2send/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js
+- 
+Require stack:
+- /Users/atlas/local2send/electron/service/network/index.js
+- /Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js
+- /Users/atlas/local2send/node_modules/ee-core/main/index.js
+- /Users/atlas/local2send/node_modules/ee-core/index.js
+- /Users/atlas/local2send/main.js
+- /Users/atlas/local2send/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js
+- 
+    at Module._resolveFilename (node:internal/modules/cjs/loader:940:15)
+    at n._resolveFilename (node:electron/js2c/browser_init:249:1105)
+    at Module._load (node:internal/modules/cjs/loader:785:27)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/index.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+code: "MODULE_NOT_FOUND"
+requireStack: ["/Users/atlas/local2send/electron/service/network/index.js","/Users/atlas/local2send/node_modules/ee-core/core/lib/utils/index.js","/Users/atlas/local2send/node_modules/ee-core/main/index.js","/Users/atlas/local2send/node_modules/ee-core/index.js","/Users/atlas/local2send/main.js","/Users/atlas/local2send/node_modules/electron/dist/Electron.app/Contents/Resources/default_app.asar/main.js",null]
+name: "unhandledExceptionError"
+pid: 20767
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:54:44,114 ERROR 20805 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: Unexpected token 'export'
+export const uploadFilePublic = function (ctx, files) {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/index.js:8:46)
+
+pid: 20805
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:55:47,589 ERROR 20824 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: Unexpected token 'export'
+export const addTxt = (ctx, txt) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/index.js:8:46)
+
+pid: 20824
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:56:25,418 ERROR 20851 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: Unexpected token 'export'
+export const getTxt = (ctx) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/index.js:8:46)
+
+pid: 20851
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:56:44,210 ERROR 20859 nodejs.SyntaxError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: Unexpected token 'export'
+export const getTxt = (ctx) => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1040:15)
+    at Module._compile (node:internal/modules/cjs/loader:1076:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/index.js:8:46)
+
+pid: 20859
+hostname: AtlasdeMacBook-Pro.local
+
+2023-08-26 23:57:26,134 ERROR 20872 nodejs.ReferenceError: [ee-core] load file: /Users/atlas/local2send/electron/service/network/index.js, error: electron is not defined
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/service.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/atlas/local2send/electron/service/network/index.js:8:46)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+
+pid: 20872
+hostname: AtlasdeMacBook-Pro.local
+
