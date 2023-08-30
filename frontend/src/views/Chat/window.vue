@@ -1,17 +1,27 @@
 <template>
   <section class="Window">
-   vue3模板
+   <Dialog />
+   <Input />
   </section>
 </template>
 <script setup>
 import { reactive, watch, computed, ref } from 'vue'
-
+import Dialog from './dialog.vue';
+import Input  from './input.vue';
 </script>
 <style lang="scss" scoped>
 .Window{
   background-color: $--tabBarColor;
   border-left: 1px solid gray;
   border-radius: 0 $--boder-spacing-3 $--boder-spacing-3 0;
-  padding: $--pagePadding;
+  
+  .Dialog {
+    height: 80%;
+    padding: $--pagePadding;
+  }
+  .Input {
+    height: 20%;
+    padding: $--pagePadding;
+  }
 }
 </style>
