@@ -25,7 +25,6 @@ class Init {
       ip
     }
     store.$state.settings = deviceInfo;
-    console.log("pina", store.$state);
   }
   initNetwork() { }
   initOs() { }

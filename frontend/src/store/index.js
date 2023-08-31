@@ -12,7 +12,11 @@ export const States = defineStore("States", {
       },
     };
   },
-  getters: {},
+  getters: {
+    getIp() {
+      return this.settings.ip
+    }
+  },
   actions: {
     updateSettings(value) {
       this.settings = value

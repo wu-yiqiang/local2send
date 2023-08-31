@@ -13,6 +13,8 @@ export function getVlanIp() {
         !alias.internal
       ) {
         netip = alias.address;
+      } else {
+        netip = '127.0.0.1'
       }
     }
   }

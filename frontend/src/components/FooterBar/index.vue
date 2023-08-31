@@ -33,7 +33,6 @@ const tabClick = (e, path) => {
   router.push(path);
 };
 onMounted(() => {
-  console.log("tavb", constantRouterMap);
   constantRouterMap.forEach((v) => {
     if (v?.meta?.TabbarShow) tabbarLen.value++;
   });
