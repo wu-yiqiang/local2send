@@ -13,13 +13,38 @@
     <div class="svg-box">
       <SvgIcon name="record" size="50" />
     </div>
+    <div class="svg-box" @click="transmit">
+      <SvgIcon name="transmit" size="50" />
+    </div>
    </div>
-   <div class="input-bar" placeholder="请输入..." contenteditable></div>
+   <textarea class="input-bar" placeholder="请输入..." v-model="inputVal" />
   </section>
 </template>
 <script setup>
-import { reactive, watch, computed, ref } from 'vue'
+import { reactive, watch, computed, ref, onMounted } from 'vue'
 import SvgIcon from "../../components/SvgIcon/index.vue";
+import mitter from '@/utils/eventBus';
+let inputVal = ref('')
+const transmit = () => {
+  if (!inputVal.value.length) return
+  let data = {
+    hostName: 'massc', ip: '127.0.0.1', img: 'http://e.hiphotos.baidu.com/image/pic/item/a1ec08fa513d2697e542494057fbb2fb4316d81e.jpg', time: new Date().getTime(), content: inputVal.value
+  }
+  mitter.emit('transmit', data)
+  inputVal.value = ''
+}
+
+function watchKeyEvent() {
+  document.addEventListener("keydown", (event) => {
+    if (event.keyCode === 16) {
+      transmit()
+    }
+  })
+}
+
+onMounted(() => {
+  watchKeyEvent()
+})
 </script>
 <style lang="scss" scoped>
 .Input{
@@ -31,7 +56,6 @@ import SvgIcon from "../../components/SvgIcon/index.vue";
     margin-bottom: 7px;
     .svg-box {
       margin-right: 10px;
-      // border: 1px solid gray;
       cursor: pointer;
       border-radius: 3px;
       @include box-align-center();
@@ -41,16 +65,15 @@ import SvgIcon from "../../components/SvgIcon/index.vue";
     width: 100%;
     height: 70%;
     overflow-y: scroll;
+    @include scroll-bar-none();
     outline: none;
     font-size: 14px;
     line-height: 1;
     border: 1px solid gray;
     border-radius: 3px;
-    padding: 10px;
-    &:empty::before {
-      content: attr(placeholder);
-      color: #8b8888;
-    }
+    padding: 5px;
+    background-color: $--tabBarColor;
+    color: #fff;
   }
 }
 </style>

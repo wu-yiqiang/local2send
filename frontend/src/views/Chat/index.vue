@@ -1,7 +1,7 @@
 <template>
   <section class="Chat">
     <List />
-   <window />
+    <window />
   </section>
 </template>
 <script setup>

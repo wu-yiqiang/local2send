@@ -14,9 +14,10 @@ import Input  from './input.vue';
   background-color: $--tabBarColor;
   border-left: 1px solid gray;
   border-radius: 0 $--boder-spacing-3 $--boder-spacing-3 0;
-  
   .Dialog {
     height: 80%;
+    overflow-y: scroll;
+    @include scroll-bar-none();
     padding: $--pagePadding;
   }
   .Input {

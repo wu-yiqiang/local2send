@@ -7,7 +7,7 @@
         />
         &nbsp;&nbsp;
         <div class="hostname">{{ item.hostName }}</div>
-        &nbsp;&nbsp;
+        &nbsp;
         <div class="ip">({{item.ip}})</div>
     </div>
   </section>

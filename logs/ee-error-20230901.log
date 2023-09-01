@@ -1,0 +1,16 @@
+2023-09-01 12:12:15,164 ERROR 10700 nodejs.TypeError: Object has been destroyed
+    at Object.restoreMainWindow (/Users/atlas/local2send/node_modules/ee-core/electron/window/index.js:60:30)
+    at App.<anonymous> (/Users/atlas/local2send/node_modules/ee-core/electron/app/index.js:32:16)
+    at App.emit (node:events:527:28)
+
+pid: 10700
+hostname: 192.168.1.9
+
+2023-09-01 12:12:16,434 ERROR 10700 nodejs.TypeError: Object has been destroyed
+    at Object.restoreMainWindow (/Users/atlas/local2send/node_modules/ee-core/electron/window/index.js:60:30)
+    at App.<anonymous> (/Users/atlas/local2send/node_modules/ee-core/electron/app/index.js:32:16)
+    at App.emit (node:events:527:28)
+
+pid: 10700
+hostname: 192.168.1.9
+

@@ -1,0 +1,104 @@
+2023-09-01 11:45:56,737 INFO 9438 [ee-core] Env: local, Type: spa
+2023-09-01 11:45:56,738 INFO 9438 [ee-core] App running at: http://localhost:8080
+2023-09-01 11:57:22,020 INFO 10231 [ee-core] Env: local, Type: spa
+2023-09-01 11:57:22,021 INFO 10231 [ee-core] App running at: http://localhost:8080
+2023-09-01 12:02:29,362 INFO 10431 [ee-core] Env: local, Type: spa
+2023-09-01 12:02:29,363 INFO 10431 [ee-core] App running at: http://localhost:8080
+2023-09-01 12:03:05,335 INFO 10553 [ee-core] Env: local, Type: spa
+2023-09-01 12:03:05,336 INFO 10553 [ee-core] App running at: http://localhost:8080
+2023-09-01 12:03:54,035 INFO 10581 [ee-core] Env: local, Type: spa
+2023-09-01 12:03:54,036 INFO 10581 [ee-core] App running at: http://localhost:8080
+2023-09-01 12:06:55,061 INFO 10700 [ee-core] Env: local, Type: spa
+2023-09-01 12:06:55,061 INFO 10700 [ee-core] App running at: http://localhost:8080
+2023-09-01 12:12:15,164 ERROR 10700 nodejs.TypeError: Object has been destroyed
+    at Object.restoreMainWindow (/Users/atlas/local2send/node_modules/ee-core/electron/window/index.js:60:30)
+    at App.<anonymous> (/Users/atlas/local2send/node_modules/ee-core/electron/app/index.js:32:16)
+    at App.emit (node:events:527:28)
+
+pid: 10700
+hostname: 192.168.1.9
+
+2023-09-01 12:12:16,435 ERROR 10700 nodejs.TypeError: Object has been destroyed
+    at Object.restoreMainWindow (/Users/atlas/local2send/node_modules/ee-core/electron/window/index.js:60:30)
+    at App.<anonymous> (/Users/atlas/local2send/node_modules/ee-core/electron/app/index.js:32:16)
+    at App.emit (node:events:527:28)
+
+pid: 10700
+hostname: 192.168.1.9
+
+2023-09-01 12:12:20,609 INFO 10938 [ee-core] Env: local, Type: spa
+2023-09-01 12:12:20,610 INFO 10938 [ee-core] App running at: http://localhost:8080
+2023-09-01 12:14:21,738 INFO 11033 [ee-core] Env: local, Type: spa
+2023-09-01 12:14:21,738 INFO 11033 [ee-core] App running at: http://localhost:8080
+2023-09-01 17:29:55,524 INFO 11438 [ee-core] Env: local, Type: spa
+2023-09-01 17:29:55,524 INFO 11438 [ee-core] App running at: http://localhost:8080
+2023-09-01 17:35:54,689 INFO 11636 [ee-core] Env: local, Type: spa
+2023-09-01 17:35:54,690 INFO 11636 [ee-core] App running at: http://localhost:8080
+2023-09-01 17:37:22,648 INFO 11768 [ee-core] Env: local, Type: spa
+2023-09-01 17:37:22,648 INFO 11768 [ee-core] App running at: http://localhost:8080
+2023-09-01 17:46:54,690 INFO 12100 [ee-core] Env: local, Type: spa
+2023-09-01 17:46:54,690 INFO 12100 [ee-core] App running at: http://localhost:8080
+2023-09-01 17:48:22,064 INFO 12222 [ee-core] Env: local, Type: spa
+2023-09-01 17:48:22,065 INFO 12222 [ee-core] App running at: http://localhost:8080
+2023-09-01 17:52:05,965 INFO 12410 [ee-core] Env: local, Type: spa
+2023-09-01 17:52:05,965 INFO 12410 [ee-core] App running at: http://localhost:8080
+2023-09-01 17:52:26,017 INFO 12427 [ee-core] Env: local, Type: spa
+2023-09-01 17:52:26,017 INFO 12427 [ee-core] App running at: http://localhost:8080
+2023-09-01 17:52:42,708 INFO 12443 [ee-core] Env: local, Type: spa
+2023-09-01 17:52:42,708 INFO 12443 [ee-core] App running at: http://localhost:8080
+2023-09-01 17:56:10,608 INFO 12565 [ee-core] Env: local, Type: spa
+2023-09-01 17:56:10,608 INFO 12565 [ee-core] App running at: http://localhost:8080
+2023-09-01 17:59:15,580 INFO 12734 [ee-core] Env: local, Type: spa
+2023-09-01 17:59:15,580 INFO 12734 [ee-core] App running at: http://localhost:8080
+2023-09-01 17:59:48,289 INFO 12751 [ee-core] Env: local, Type: spa
+2023-09-01 17:59:48,289 INFO 12751 [ee-core] App running at: http://localhost:8080
+2023-09-01 18:00:39,025 INFO 12776 [ee-core] Env: local, Type: spa
+2023-09-01 18:00:39,025 INFO 12776 [ee-core] App running at: http://localhost:8080
+2023-09-01 18:03:11,227 INFO 12905 [ee-core] Env: local, Type: spa
+2023-09-01 18:03:11,227 INFO 12905 [ee-core] App running at: http://localhost:8080
+2023-09-01 18:07:28,971 INFO 13079 [ee-core] Env: local, Type: spa
+2023-09-01 18:07:28,971 INFO 13079 [ee-core] App running at: http://localhost:8080
+2023-09-01 18:07:59,052 INFO 13108 [ee-core] Env: local, Type: spa
+2023-09-01 18:07:59,052 INFO 13108 [ee-core] App running at: http://localhost:8080
+2023-09-01 18:12:09,459 INFO 13292 [ee-core] Env: local, Type: spa
+2023-09-01 18:12:09,460 INFO 13292 [ee-core] App running at: http://localhost:8080
+2023-09-01 19:54:29,015 INFO 14358 [ee-core] Env: local, Type: spa
+2023-09-01 19:54:29,016 INFO 14358 [ee-core] App running at: http://localhost:8080
+2023-09-01 19:54:53,224 INFO 14375 [ee-core] Env: local, Type: spa
+2023-09-01 19:54:53,224 INFO 14375 [ee-core] App running at: http://localhost:8080
+2023-09-01 19:55:19,827 INFO 14395 [ee-core] Env: local, Type: spa
+2023-09-01 19:55:19,827 INFO 14395 [ee-core] App running at: http://localhost:8080
+2023-09-01 19:57:13,756 INFO 14528 [ee-core] Env: local, Type: spa
+2023-09-01 19:57:13,757 INFO 14528 [ee-core] App running at: http://localhost:8080
+2023-09-01 20:01:30,676 INFO 14744 [ee-core] Env: local, Type: spa
+2023-09-01 20:01:30,676 INFO 14744 [ee-core] App running at: http://localhost:8080
+2023-09-01 20:06:14,641 INFO 15028 [ee-core] Env: local, Type: spa
+2023-09-01 20:06:14,641 INFO 15028 [ee-core] App running at: http://localhost:8080
+2023-09-01 20:07:44,299 INFO 15079 [ee-core] Env: local, Type: spa
+2023-09-01 20:07:44,299 INFO 15079 [ee-core] App running at: http://localhost:8080
+2023-09-01 20:08:32,993 INFO 15160 [ee-core] Env: local, Type: spa
+2023-09-01 20:08:32,994 INFO 15160 [ee-core] App running at: http://localhost:8080
+2023-09-01 20:28:32,631 INFO 15786 [ee-core] Env: local, Type: spa
+2023-09-01 20:28:32,632 INFO 15786 [ee-core] App running at: http://localhost:8080
+2023-09-01 20:40:55,911 INFO 16476 [ee-core] Env: local, Type: spa
+2023-09-01 20:40:55,911 INFO 16476 [ee-core] App running at: http://localhost:8080
+2023-09-01 21:18:31,158 INFO 18520 [ee-core] Env: local, Type: spa
+2023-09-01 21:18:31,158 INFO 18520 [ee-core] App running at: http://localhost:8080
+2023-09-01 21:22:47,101 INFO 18842 [ee-core] Env: local, Type: spa
+2023-09-01 21:22:47,101 INFO 18842 [ee-core] App running at: http://localhost:8080
+2023-09-01 21:24:27,350 INFO 19112 [ee-core] Env: local, Type: spa
+2023-09-01 21:24:27,350 INFO 19112 [ee-core] App running at: http://localhost:8080
+2023-09-01 21:24:49,048 INFO 19133 [ee-core] Env: local, Type: spa
+2023-09-01 21:24:49,048 INFO 19133 [ee-core] App running at: http://localhost:8080
+2023-09-01 21:24:55,324 INFO 19142 [ee-core] Env: local, Type: spa
+2023-09-01 21:24:55,324 INFO 19142 [ee-core] App running at: http://localhost:8080
+2023-09-01 21:25:42,839 INFO 19163 [ee-core] Env: local, Type: spa
+2023-09-01 21:25:42,839 INFO 19163 [ee-core] App running at: http://localhost:8080
+2023-09-01 21:27:50,794 INFO 19424 [ee-core] Env: local, Type: spa
+2023-09-01 21:27:50,794 INFO 19424 [ee-core] App running at: http://localhost:8080
+2023-09-01 21:28:56,990 INFO 19461 [ee-core] Env: local, Type: spa
+2023-09-01 21:28:56,991 INFO 19461 [ee-core] App running at: http://localhost:8080
+2023-09-01 21:39:05,688 INFO 20422 [ee-core] Env: local, Type: spa
+2023-09-01 21:39:05,688 INFO 20422 [ee-core] App running at: http://localhost:8080
+2023-09-01 21:39:30,368 INFO 20447 [ee-core] Env: local, Type: spa
+2023-09-01 21:39:30,368 INFO 20447 [ee-core] App running at: http://localhost:8080

@@ -13,7 +13,6 @@ const db = new DB()
 const isDev = process.env.NODE_ENV === 'development'
 
 const parseRange = (range, size) => {
-  console.log('network')
   if (range) {
     const [start, end] = range.replace('bytes=', '').split('-')
     return { start: +start, end: end && end <= size ? end : size }

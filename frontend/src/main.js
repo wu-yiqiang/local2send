@@ -6,4 +6,4 @@ import { pinia } from "./store/index";
 import './style/index.scss'
 import init from './init'
 const app = createApp(App)
-app.use(pinia).use(init).use(Router).mount('#app')
+app.use(pinia).use(init).use(Router).mount("#app");

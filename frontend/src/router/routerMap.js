@@ -9,7 +9,7 @@ const Chat = () => import("@/views/Chat/index.vue");
 const constantRouterMap = [
     {
       path: "/receive",
-      name: "接收",
+      name: "共享",
       meta: {
         title: "receive",
         icon: "wifi",
