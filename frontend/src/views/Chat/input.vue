@@ -48,6 +48,8 @@ onMounted(() => {
 </script>
 <style lang="scss" scoped>
 .Input{
+  height: 20%;
+  padding: $--pagePadding;
   .tool-bar {
     height: 30%;
     width: 100%;

@@ -11,13 +11,18 @@
   </section>
 </template>
 <script setup>
-import { reactive, watch, computed, ref, onMounted } from 'vue'
+import { reactive, watch, computed, ref, onMounted, nextTick } from 'vue'
 import DialogLeft from './dialog-left.vue'
 import DialogRight from './dialog-right.vue'
 import mitter from '@/utils/eventBus';
 import { States } from "@/store/index"
 const store = States()
 let lists = reactive([])
+watch([lists], ([lists], [prevLists]) => {
+  console.log('kkkk')
+  const ele = document.querySelector('.Dialog')
+  ele.scrollIntoView({ behavior: "smooth", block: "end" });
+})
 onMounted(() => {
   lists.push(...[
   {
@@ -41,16 +46,16 @@ onMounted(() => {
   ].sort((a, b) => a - b))
   mitter.on('transmit', (data) => {
     lists.push(data)
-    const ele = document.querySelector('.Dialog')
-    console.log('end', ele)
-    ele.scrollIntoView({ behavior: "smooth", block: "end" });
   })
 })
 </script>
 <style lang="scss" scoped>
 .Dialog{
+  height: 80%;
   border-bottom: 1px solid gray;
-  overflow: hidden;
+  overflow-y: scroll;
+  @include scroll-bar-none();
+  padding: $--pagePadding;
   .item {
     width: 100%;
     .left-box {

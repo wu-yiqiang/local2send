@@ -35,7 +35,8 @@ class Index extends Application {
     const winOpt = this.config.windowsOption
     if (winOpt.show == false) {
       const win = this.electron.mainWindow
-      win.webContents.openDevTools({ mode: 'bottom' })
+      console.log('jjj', winOpt)
+      if (this.config.openDevTools) win.webContents.openDevTools({ mode: 'bottom' })
       win.once('ready-to-show', () => {
         win.show()
       })

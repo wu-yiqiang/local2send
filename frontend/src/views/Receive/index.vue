@@ -1,8 +1,8 @@
 <template>
   <section class="Receive">
-   <button v-if="status" @click="handleOpen">开启</button>
-   <button v-else @click="handleClose">关闭</button>
-   <span v-if="status">请使用浏览器访问192.168.0.1:8090</span>
+   <button v-if="status" @click="handleClose">关闭</button>
+   <button v-else @click="handleOpen">开启</button>
+   <div v-if="status">请使用浏览器访问192.168.0.1:8090</div>
   </section>
 </template>
 <script setup>
@@ -15,6 +15,7 @@ const handleOpen = () => {
 const handleClose = () => {
   status.value = false
 }
+
 </script>
 <style lang="scss" scoped>
 .Receive{
